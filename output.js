@@ -1,4 +1,4 @@
-//Sun Sep 15 2024 07:11:48 GMT+0000 (Coordinated Universal Time)
+//Sun Sep 15 2024 07:13:52 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const liIiiI1l = ["wrF0wq7DuXs=", "wqjDsMOlBsObw5kWwqbDrcKmX1zCnQ==", "w7ZwGl8=", "wrnCmXobwovCrQ==", "wqAoOhlA", "wrgRwozDsHUGw512worCsxFVw5/CnX3DgzXDpC8vw7TCqnXCrzzDpETDtVbChCdhw7NEXS3DjkQJwppS", "w58wASnChQ==", "c19Gw68LLOetu8OR", "C8OtQBHCsw==", "w6TChUdwwqg/w5LDkEXDvAPClcOYwro=", "Y0NDw6jClw==", "5re16Kac5bOd6Zio5aSo5p+I5oip5Yq4776awonCiQ==", "w55ze8OmwpM=", "w7I6wqvDkSg=", "w6fDvlTCkX19w7VZ", "dmQmwpg5", "dcKywpJ2EQ==", "8LiDiXTDkm1i", "w6oDAMK7w68=", "wqR+wqw=", "wpDDsGbCs2BR", "w7V6CgYOw5TCqh3DgMOcw5Usw7fCrQ==", "e8Krwo52DcOz", "ZcOswo8MLsKQwpPCpsObXcKnVcKAwonDrEjCjcOn", "w6xyClkS", "GsOowpnClwPDusO3ajV4Ow==", "XsKqaRrDlg==", "F8OHw7w=", "6LW95Yy+woU=", "EsOnVsOGHQ==", "wpjCi8O3w4hl", "w5diw5w=", "wqdrVMOGCA==", "w7Imwq8=", "RzE8VMKgbsORC0LDgw==", "JuW0qumak+adjOWKkemEgMKWwq1hwrwDwoHDo8O3c09OwpfCqg==", "VcKkwo/ChhrDosKpKTF4Khodw7TDtw==", "w7nDpjRX", "fMKVwrHConQ=", "w7J9fsOnwpQ=", "w5DDhmDCrQ==", "ChACwqFzYybDvxDDvMO5", "6LSK5YyvNlzCvWfCnA==", "w54iFAHCtA==", "cMOzw67DqT4=", "wrnCqCxGwrrDpMO7MzzDrMOjw7/DhsK4wpXCgMOJwrc=", "w59FXMOCwqU=", "562M5YqX5aWh6LWc776z", "w5PDvj7Cm8Kt", "FRACwqJVbg==", "wrPChUYH", "wq7CpMOJw6pJ", "w5Vsw5bDpw==", "566r5Yip5oix5Yi1772F6I+S5b67", "5raf6KWw5Lq95YqZ5pSM5Y+s55Sd5b2S5buD77yf", "Y8OvATrDgg==", "wpbDr14=", "w4QJH8Kew7w=", "5reY6KaA5bOW6ZqB5aWu5p2I5oqK5YqI77+m", "w50FCcORw7PDsHsrdjcrw4bDgXU=", "DsOvQ8OKIQ==", "N8Kmwrk=", "6I245Y2D56+v5Ymk5L2b5oOY5paE5YyY55af5b+z5biG77yv", "DmE1", "5reY6KWP5aWo6LSX77+J", "wpbDnzZbwpQ=", "w5N5w4/DsgnClQ3Cu8OJwpjDp8KBw4Jow7IiHcOOwrwQNsK6Yw==", "w5gydAZACsKNwqfDpMK6", "w79xf8OXwpzCqgtYwrjDk8OlIsON", "w6o4GsKuw7w=", "w6ApwrDDig==", "Vj3CvGHDvQ==", "566u5Yua5oik5Yur77+j6I2/5b25", "EWYDOMOxw44=", "PHsKAgoT", "WcK0wos=", "LQDCvsKaw7M=", "ZQLCpG/CkcKFw4HClsKDwovChMKAJEUmw4DCt1vCpsOsw5FTdQk+w77ClVAfwq4kd3HClgkCwpAqwrzCp8Oaw5bDtsOQw7HChA==", "w4tpGkAd", "csKAwqLCqg7ClMOBw7AgWMOtwplcAMOsMVc=", "w6JwB04=", "VMKZwqjCv1LDgA==", "w58NRRE7", "w4vDgD3Ck30bQsKmwrzCpMKrG016TsOiezPClsOP", "w73DqjpAwqk=", "P8OWw7vDqlE=", "YcOSw4U7wqs=", "WcOrw6E=", "w4/CszQJ", "NVzDpC3DiA==", "wrBrU8OFOw==", "Z8OUNQvChFN0wrnCojM=", "HMOrw7/DqlkKw77DuMOBw4fCscOQOg==", "KMKowrPCoMKNay7DjsKfI8O4", "w4vCtzMZHRLCpcKqw5/CpW0=", "wrlDwqAqwqzDgWrCi8KbIhUowr5Y", "woBPH8KIw7zDuXxnfXUrw4TDin4=", "wpRUw67DjFXCgGXDtcOFwo3CocKdwpo9wqU8dMKRw69QEcK0YcOKWFEPwppGw5sVIsK2woxHOynDsMOuw4PDnBg/wrDChcK8CcOkLMO+wpLClQDCi8O2wqdvQA==", "w5jDjmPCqVxcw4g=", "UMOUMTLDsA==", "w6IJC8KSw63DoA==", "6YWg5bqmWg==", "S8KwwoBpEcOl", "QhkVfsKZ", "W8Olw6vDug==", "RcOGOQ0=", "w50FBMKYw5vDunsheGM=", "CXoLL8Kiw6nDhMKBwo4pOmAmwocR", "w5A+Eg/CnzM=", "bcOXwrnCv1PDgcOAw6YyUcOow4BORcK4Ow==", "wqUUGDlJ", "woBqRMOYZCRLKVB7", "MTIqwppiSRjDgTzDig==", "wojCnC8=", "eMKGwo3CkQg=", "wrgxJMKcAWQ=", "5Yyc5be65Zyj", "w6dpw68qIfC1g5ot", "w7YtJsK0w6HDoX8ae2szw4zDlmQ=", "dlRTw67ChRwDDsOpwr4ewrzDlMKNXQ==", "C8Ohw7jDjA=="];
@@ -108,12 +108,12 @@ const I11I111i = i11iiI1;
   for (let I1iIlliI = 0; i1I11l1[Ii1l1ilI("0x26", "kmtf")](I1iIlliI, lIlill1I[Ii1l1ilI("0x3", "1eQ4")]); I1iIlliI++) {
     const il11ll1l = i1I11l1[Ii1l1ilI("0x44", "B)q9")](I1iIlliI, 1);
     I11I111i[Ii1l1ilI("0x61", "e7Vq")] = Ii1l1ilI("0x3d", "PsyT") + lIlill1I[I1iIlliI];
-    console[Ii1l1ilI("0xf", "EzFt")](Ii1l1ilI("0x52", "1eQ4") + il11ll1l + "]个" + II1llllI[Ii1l1ilI("0x6", "A]2G")] + Ii1l1ilI("0x75", "mz%@"));
+    console[Ii1l1ilI("0xf", "EzFt")](Ii1l1ilI("0x52", "1eQ4") + il11ll1l + "]\u4E2A" + II1llllI[Ii1l1ilI("0x6", "A]2G")] + Ii1l1ilI("0x75", "mz%@"));
     iIIll1 += Ii1l1ilI("0x5c", "W@0N") + II1llllI[Ii1l1ilI("0x73", "Ks7q")] + Ii1l1ilI("0x67", "EzFt") + il11ll1l + Ii1l1ilI("0x47", "vyon");
     await i1I11l1[Ii1l1ilI("0x68", "YbpQ")](III1lIi);
     await II1llllI[Ii1l1ilI("0x3b", "NfiE")](ii1iIil1[Ii1l1ilI("0x16", "09Yi")](2000, 2500));
   }
-  iIIll1 && (await IlliIIIi[Ii1l1ilI("0x3c", "y]&b")]("「" + II1llllI[Ii1l1ilI("0x3a", "#bt^")] + "」", "" + iIIll1));
+  iIIll1 && (await IlliIIIi[Ii1l1ilI("0x3c", "y]&b")]("\u300C" + II1llllI[Ii1l1ilI("0x3a", "#bt^")] + "\u300D", "" + iIIll1));
 })()[Ii1l1ilI("0x51", "X5j7")](I1I1i1l1 => II1llllI[Ii1l1ilI("0x3e", "X5j7")](I1I1i1l1))[Ii1l1ilI("0x34", "Ks7q")](() => II1llllI[Ii1l1ilI("0x22", "0lA#")]());
 async function III1lIi() {
   const i1li11i1 = {};
@@ -143,7 +143,7 @@ async function iiillII() {
     const lIi1IIll = await ii1iIil1[Ii1l1ilI("0x30", "39vx")](Iil1i11I + Ii1l1ilI("0x33", "A]2G") + iiIiIlll[Ii1l1ilI("0x9", "NfiE")](IIliI1l)[Ii1l1ilI("0x45", "kMk6")](iiIiIlll[Ii1l1ilI("0x5", "sKh(")]), iiIiIlll[Ii1l1ilI("0x69", "sKh(")], I11I111i);
     if (iiIiIlll[Ii1l1ilI("0x71", "Xq7]")](1, lIi1IIll[Ii1l1ilI("0x38", "e7Vq")])) return iIIll1 += lIi1IIll[Ii1l1ilI("0x11", "jiME")] + "\n", console[Ii1l1ilI("0x58", "wfiE")](Ii1l1ilI("0x1", "NfiE") + lIi1IIll[Ii1l1ilI("0x1d", "B)q9")]);
     iIIll1 += Ii1l1ilI("0x1a", "htg3") + lIi1IIll[Ii1l1ilI("0xb", "y]&b")] + Ii1l1ilI("0x37", "NfiE");
-    console[Ii1l1ilI("0x29", "#bt^")](Ii1l1ilI("0x7", "SPx!") + lIi1IIll[Ii1l1ilI("0x72", "09Yi")] + "酒币");
+    console[Ii1l1ilI("0x29", "#bt^")](Ii1l1ilI("0x7", "SPx!") + lIi1IIll[Ii1l1ilI("0x72", "09Yi")] + "\u9152\u5E01");
     console[Ii1l1ilI("0x5e", "hCeC")](lIi1IIll[Ii1l1ilI("0x36", "y]&b")][Ii1l1ilI("0x5f", "z8Yb")]);
   } catch (illll1i) {
     console[Ii1l1ilI("0x53", "cc$l")](Ii1l1ilI("0x10", "J^JF") + illll1i);
